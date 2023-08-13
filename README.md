@@ -31,7 +31,7 @@
 
 <div align="center">
 
-|⭐CAMILA  | ⭐ ABNER |⭐ANERSON | ⭐ LETÍCIA |
+|⭐ CAMILA  | ⭐ ANTÔNIO ABNER |⭐ ANERSON | ⭐ LETÍCIA |
 | -------- | -------- | -------- | ---------- |
 | -em breve | - em breve | - em breve | - em breve |
 
