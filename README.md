@@ -36,3 +36,6 @@
 | -em breve | - em breve | - em breve | - em breve |
 
 </div>
+
+
+![Badge Em andamento](http://img.shields.io/static/v1?label=STATUS&message=EM%20ANDAMENTO&color=F47B8F&style=for-the-badge)
