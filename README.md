@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>※ Projeto Apple Academy ※</h1>
+<h1> Projeto Apple Academy 🍎</h1>
 
 <img width="80%" src="https://github.com/Cam1ss/Projeto_Apple_Academy/assets/125037138/25492536-7b89-4607-a8c0-b29a59c15966">
 
