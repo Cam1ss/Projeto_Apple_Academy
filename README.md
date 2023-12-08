@@ -15,7 +15,7 @@
 
 <h2> 📍 :: Descrição </h2>
    
-- Em breve
+- Um aplicativo que oferece um novo hobby para seus dias de tédio, com informações sobre diferentes plantas e como plantar
 
 <h2> 📷 :: Imagens do Projeto </h2>
 
