@@ -34,7 +34,7 @@
 
 |⭐ CAMILA  | ⭐ ABNER |⭐ ANDERSON | ⭐ LETÍCIA |
 | -------- | -------- | -------- | ---------- |
-| -em breve | - em breve | - em breve | - em breve |
+| - designer | - codigo | - codigo | - pesquisa |
 
 </div>
 
