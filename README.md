@@ -19,7 +19,8 @@
 
 <h2> 📷 :: Imagens do Projeto </h2>
 
-- Em Breve
+![sofri](https://github.com/Cam1ss/Projeto_Apple_Academy/assets/125037138/5aa7df07-31f7-42d1-b3c3-17cdf7e935c1)
+
 
 <h2> 💻 :: Ferramentas Utilizadas </h2>
 
