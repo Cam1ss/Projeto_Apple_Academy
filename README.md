@@ -2,7 +2,7 @@
 
 <h1> Projeto Apple Academy 🍎</h1>
 
-<img width="80%" src="https://github.com/Cam1ss/Projeto_Apple_Academy/assets/125037138/25492536-7b89-4607-a8c0-b29a59c15966">
+<img width="80%" src="https://github.com/Cam1ss/Projeto_Apple_Academy/assets/125037138/b5a23355-187e-4714-89f4-1013557f5ba5">
 
 <a href="https://github.com/Cam1ss" target="_self" rel="external">Camila Braúna</a> 
   • <a href="https://github.com/frsmth" target="_self" rel="external">Antônio Abner</a> •
